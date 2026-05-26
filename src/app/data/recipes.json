@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "name": "Scrambled Eggs",
+    "ingredients": ["eggs", "butter", "milk", "salt", "pepper"],
+    "description": "Creamy scrambled eggs — a quick classic.",
+    "time": "5 min"
+  },
+  {
+    "id": "2",
+    "name": "Omelette",
+    "ingredients": ["eggs", "butter", "cheese", "onion", "pepper"],
+    "description": "Fluffy omelette with cheese and veggies.",
+    "time": "10 min"
+  },
+  {
+    "id": "3",
+    "name": "Banana Smoothie",
+    "ingredients": ["banana", "milk", "yogurt", "honey"],
+    "description": "Smooth and creamy banana shake.",
+    "time": "5 min"
+  },
+  {
+    "id": "4",
+    "name": "French Toast",
+    "ingredients": ["bread", "eggs", "milk", "butter", "sugar"],
+    "description": "Golden French toast dusted with sugar.",
+    "time": "15 min"
+  },
+  {
+    "id": "5",
+    "name": "Garlic Pasta",
+    "ingredients": ["pasta", "garlic", "olive oil", "parmesan", "parsley"],
+    "description": "Simple aglio e olio pasta.",
+    "time": "20 min"
+  },
+  {
+    "id": "6",
+    "name": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "basil"],
+    "description": "Light tomato sauce over al dente pasta.",
+    "time": "25 min"
+  },
+  {
+    "id": "7",
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "description": "Crispy, melty grilled cheese.",
+    "time": "10 min"
+  },
+  {
+    "id": "8",
+    "name": "Avocado Toast",
+    "ingredients": ["bread", "avocado", "lemon", "salt", "pepper"],
+    "description": "Creamy avocado spread on toasted bread.",
+    "time": "5 min"
+  },
+  {
+    "id": "9",
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["carrot", "broccoli", "garlic", "soy sauce", "olive oil", "onion"],
+    "description": "Quick stir-fried veggies with soy glaze.",
+    "time": "15 min"
+  },
+  {
+    "id": "10",
+    "name": "Fried Rice",
+    "ingredients": ["rice", "eggs", "carrot", "soy sauce", "garlic", "onion"],
+    "description": "Classic fried rice with egg and veggies.",
+    "time": "20 min"
+  },
+  {
+    "id": "11",
+    "name": "Tomato Soup",
+    "ingredients": ["tomato", "onion", "garlic", "butter", "cream", "basil"],
+    "description": "Silky smooth tomato soup.",
+    "time": "30 min"
+  },
+  {
+    "id": "12",
+    "name": "Banana Pancakes",
+    "ingredients": ["banana", "eggs", "flour", "milk", "butter"],
+    "description": "Fluffy banana pancakes.",
+    "time": "20 min"
+  },
+  {
+    "id": "13",
+    "name": "Caesar Salad",
+    "ingredients": ["lettuce", "parmesan", "bread", "lemon", "garlic", "olive oil"],
+    "description": "Classic Caesar with homemade croutons.",
+    "time": "15 min"
+  },
+  {
+    "id": "14",
+    "name": "Greek Salad",
+    "ingredients": ["tomato", "cucumber", "onion", "feta", "olive oil", "lemon"],
+    "description": "Fresh Mediterranean salad.",
+    "time": "10 min"
+  },
+  {
+    "id": "15",
+    "name": "Mushroom Omelette",
+    "ingredients": ["eggs", "mushroom", "butter", "cheese", "salt"],
+    "description": "Savory mushroom and cheese omelette.",
+    "time": "12 min"
+  },
+  {
+    "id": "16",
+    "name": "Yogurt Parfait",
+    "ingredients": ["yogurt", "banana", "honey", "oats"],
+    "description": "Layered yogurt with fruit and oats.",
+    "time": "5 min"
+  },
+  {
+    "id": "17",
+    "name": "Egg Fried Noodles",
+    "ingredients": ["noodles", "eggs", "soy sauce", "garlic", "onion", "carrot"],
+    "description": "Quick egg noodles tossed in soy sauce.",
+    "time": "15 min"
+  },
+  {
+    "id": "18",
+    "name": "Cucumber Raita",
+    "ingredients": ["cucumber", "yogurt", "salt", "cumin"],
+    "description": "Cool cucumber and yogurt dip.",
+    "time": "5 min"
+  },
+  {
+    "id": "19",
+    "name": "Cheese Quesadilla",
+    "ingredients": ["tortilla", "cheese", "butter", "onion", "pepper"],
+    "description": "Crispy quesadilla loaded with cheese.",
+    "time": "10 min"
+  },
+  {
+    "id": "20",
+    "name": "Vegetable Soup",
+    "ingredients": ["carrot", "onion", "potato", "garlic", "tomato", "broccoli"],
+    "description": "Hearty vegetable soup for any day.",
+    "time": "35 min"
+  },
+  {
+    "id": "21",
+    "name": "Mashed Potatoes",
+    "ingredients": ["potato", "butter", "milk", "salt", "pepper"],
+    "description": "Creamy buttery mashed potatoes.",
+    "time": "25 min"
+  },
+  {
+    "id": "22",
+    "name": "Caprese Salad",
+    "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "salt"],
+    "description": "Simple Italian tomato and mozzarella salad.",
+    "time": "5 min"
+  },
+  {
+    "id": "23",
+    "name": "Spinach Omelette",
+    "ingredients": ["eggs", "spinach", "butter", "salt", "pepper"],
+    "description": "Light and nutritious spinach omelette.",
+    "time": "10 min"
+  },
+  {
+    "id": "24",
+    "name": "Garlic Bread",
+    "ingredients": ["bread", "butter", "garlic", "parsley"],
+    "description": "Crispy garlic butter bread.",
+    "time": "10 min"
+  },
+  {
+    "id": "25",
+    "name": "Potato Hash",
+    "ingredients": ["potato", "onion", "pepper", "olive oil", "salt"],
+    "description": "Pan-fried crispy potato hash.",
+    "time": "20 min"
+  }
+]
